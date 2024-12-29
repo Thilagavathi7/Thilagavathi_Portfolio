@@ -106,6 +106,6 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ## Contact
 reach out to me at:
-- **What's App:** 9361669894
-- **Email:** [pathurideepesh18@gmail.com](mailto:vpathurideepesh18@gmail.com)
+- **What's App:** 9342607798
+- **Email:** [thilagavathiselvam007@gmail.com](mailto:thilagavathiselvam007@gmail.com)
 - **LinkedIn:** [Deepesh P](https://www.linkedin.com/in/pathuri-deepesh-729030287/)
