@@ -77,8 +77,8 @@ I am deeply interested in technology, coding, and tackling challenging problems.
 ---
 
 ## Coding Profiles
-- [LeetCode](https://leetcode.com/u/deepesh_22/)
-- [Talentely](https://lms.talentely.com/in/7112ebeb-6447-4b33-89de-14788cf453d3)
+- [LeetCode](https://leetcode.com/u/thilagavathi_18/)
+- [Talentely](https://lms.talentely.com/in/f3dbe40f-4d1b-465a-a0d4-52b62d5560f9)
 
 ---
 
@@ -87,8 +87,8 @@ I am deeply interested in technology, coding, and tackling challenging problems.
 - **Web Development:** HTML, CSS, JavaScript
 - **Database Management:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Other Skills:** Data Structures and Algorithms, OOPS, Team Collaboration, Problem-Solving
-
+- **Core Areas:** Data Structures and Algorithms, OOPS, Team Collaboration, Problem-Solving
+- **Soft Skills:** Communication skill, Time Management skill, Critical Thinking, Adaptibility
 ---
 
 ## Experience
@@ -97,8 +97,9 @@ I am deeply interested in technology, coding, and tackling challenging problems.
 - **Responsibilities:**  I learnt the basics of android development Developed basic projects.
 
 ### Volunteer Coordinator | Drestin – National Symposium
-- **Duration:** October 2024 - November 2024
-- **Responsibilities:** Coordinated communication and managed volunteer onboarding for a large-scale academic event.
+- **Duration:** October 2023 - November 2023
+- **Event name:** Drone the Dracarys
+- **Responsibilities:** Volunteered for the event, assisting in the coordination and management of drone-related activities.
 
 ---
 
