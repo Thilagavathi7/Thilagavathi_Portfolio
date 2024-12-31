@@ -59,19 +59,17 @@ I am deeply interested in technology, coding, and tackling challenging problems.
 
 ## Accomplishments
 - **2nd Place in [Riddle SQL](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/WhatsApp%20Image%202024-12-29%20at%2021.20.35_cd24ddda.jpg)** (Saveetha Engineering College)
-- 1st Place in Brand Artistry (PINNACLE'24, SRM Institute of Science and Technology)
-- 3rd Place in Code Hunt (Cryptrix 2024, St. Joseph's College of Engineering)
-- Honorable Mention in Ideathon (Hack With Folks, 2023)
 - Ranked 695th in the Amazon ML Challenge 2024 among 74,000+ teams.
 
 ---
 
 ## Participation
-- Participated in **Hack With Folks 2023**, showcasing innovative ideas for food reuse.
-- Contributed to the **Amazon ML Challenge 2024**, competing against 74,000+ teams.
-- Engaged in the **Cryptrix 2024 Code Hunt**, demonstrating advanced problem-solving skills.
-- Represented Saveetha Engineering College in **various coding and innovation events**.
-
+- **[IBM 2023 Datathon ](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/Thilagavathi%20S%202023%20IBM%20Z%20Datathon%20Certificate.pdf) Participated in the IBM 2023 Datathon, working on the project "Video Surveillance and Tracking using Facial Recognition", which involved leveraging advanced facial recognition techniques.**
+- **[BUGSMASH'24](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/WhatsApp%20Image%202024-12-29%20at%2021.20.00_a7ad3d7e.jpg)(Pinnacle 2K24 , Easwari Engineering College)**
+- **[VIKING CARROM](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/WhatsApp%20Image%202024-12-29%20at%2021.19.26_fbdf9a2a.jpg)(Pinnacle 2K24 , Easwari Engineering College)**
+- **[IBM 2024 Datathon ](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/Hack2skill-Certificate%20(1).png) Participated in the IBM 2024 Datathon, focusing on "Real-Time Predictive Emotion and Behavioral Analysis", showcasing expertise in predictive modeling and behavioral analytics.**
+- **[TCS Codevita (2024) ]() Participated in TCS Codevita (2024), showcasing my programming and algorithmic problem-solving abilities.**
+- **[Flipkart Grid 6.0 (2024) ]() Participated in Flipkart Grid 6.0 (2024) in the Software Development Track, demonstrating my skills in designing innovative software solutions.**
 ---
 
 ## Coding Profiles
