@@ -46,21 +46,19 @@ I am deeply interested in technology, coding, and tackling challenging problems.
 
 ## Certifications
 
-- **[ICT Academy Learnathon Introduction of Mongo DB for students](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/MongoDB%20Basics.pdf)** (ID: MDByagxfe3euu)
-- **[Introduction to Data Science](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Introduction%20to%20Data%20Science.jpg)** (ID: 5426690)
-- **[Getting Started with Atlas](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Getting%20Started%20with%20MongoDB%20Atlas.pdf)** (ID: MDBd41tor3cie)
-- **[Microsoft AWS Cloud Practitioner]**
-- **[IBM DATA & AI SKILLS](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Data%20%26%20AI%20Skill.png)** (ID: 60e5de63-3c6d-47ae-bf4e-76648ee3ca85)
-- **[History of Ramanujan](https://github.com/user-attachments/files/18270199/Certificate.for.P.DEEPESH.for._Department.of.Mathematics._.pdf) 
-)** (ID: CDIWEG-CE000481)
-- **[MongoDB and the Document Model](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/MongoDB%20and%20the%20Document%20Model.pdf)** (ID: MDBpff6aogzao) 
-- **[Microsoft Office]**
-- **[Android Application Development](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Android%20Application%20Development.jpg)**  
-- **[IBM Z SKILLS](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%20Skill.png)** (ID: a0b3f90f-3443-4b80-a315-5bbfd714ec47)
+- **[Getting Started with Atlas](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/thilagavathi-n-a-dfc0d8de-a8f4-4bc0-b601-0381478ec129-certificate.pdf)** 
+- **[Microsoft AWS Cloud Practitioner](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/WhatsApp%20Image%202024-12-29%20at%2021.18.36_da8200d5.jpg)**
+- **[IBM DATA & AI SKILLS 2023](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/Thilagavathi_Selvam-6235.png)**
+- **[MongoDB and the Document Model](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/thilagavathi-n-a-600b0ccf-73b9-47ee-8c7c-b5103dcb21cb-certificate.pdf)**  
+- **[Android Application Development](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/212222220053%20(1).pdf)**  
+- **[IBM Z SKILLS 2023](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/Thilagavathi_Selvam-8115.png)**
+- **[IBM SECURITY 2024](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/Thilagavathi_S-17be.png)**
+- **[IBM DATA & AI SKILLS 2024](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/Thilagavathi_S-292c.png)**
+- **[IBM Z SKILLS 2024](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/Thilagavathi_S-920b.png)**
 ---
 
 ## Accomplishments
-- 2nd Place in [Riddle SQL](https://github.com/Vijisdurai/Vijis-Durai-R- Portfolio/blob/main/certificate/achievements/code%20blitz.jpg) (Saveetha Engineering College)
+- **2nd Place in [Riddle SQL](https://github.com/Thilagavathi7/Thilagavathi_Portfolio/blob/main/certificate/WhatsApp%20Image%202024-12-29%20at%2021.20.35_cd24ddda.jpg)** (Saveetha Engineering College)
 - 1st Place in Brand Artistry (PINNACLE'24, SRM Institute of Science and Technology)
 - 3rd Place in Code Hunt (Cryptrix 2024, St. Joseph's College of Engineering)
 - Honorable Mention in Ideathon (Hack With Folks, 2023)
